@@ -1,8 +1,6 @@
 <br/>
 <br/>
 
-hihi
-
 <p align="center">
 <img src="https://files.cloudtype.io/logo/cloudtype-logo-horizontal-black.png" width="50%" alt="Cloudtype"/>
 </p>
